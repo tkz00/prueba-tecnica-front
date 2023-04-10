@@ -1,0 +1,42 @@
+[
+    {
+      "courseId": "A12345",
+      "createdDate": "2022-03-01",
+      "schoolName": "Academy High School",
+      "level": "12th Grade",
+      "course": "English Literature",
+      "location": "Chicago, IL",
+      "finalPrice": 750,
+      "deliveryDate": "2022-04-01"
+    },
+    {
+      "courseId": "B67890",
+      "createdDate": "2022-02-15",
+      "schoolName": "Maplewood High School",
+      "level": "10th Grade",
+      "course": "Geometry",
+      "location": "Nashville, TN",
+      "finalPrice": 425,
+      "deliveryDate": "2022-03-15"
+    },
+    {
+      "courseId": "C24680",
+      "createdDate": "2022-01-05",
+      "schoolName": "Valley View Middle School",
+      "level": "8th Grade",
+      "course": "Science",
+      "location": "Los Angeles, CA",
+      "finalPrice": 300,
+      "deliveryDate": "2022-02-05"
+    },
+    {
+      "courseId": "D13579",
+      "createdDate": "2021-12-01",
+      "schoolName": "Pinecrest Elementary",
+      "level": "3rd Grade",
+      "course": "Mathematics",
+      "location": "Miami, FL",
+      "finalPrice": 125,
+      "deliveryDate": "2022-01-01"
+    }
+  ]
